@@ -190,12 +190,7 @@ const Navbar = () => {
               </div>
             ))}
             
-            <Link 
-              to="/about" 
-              className={`px-3 py-2 font-medium ${location.pathname === '/about' ? 'text-blue-600 border-b-2 border-blue-600' : 'text-gray-700 hover:text-blue-600'}`}
-            >
-              About
-            </Link>
+  
             
             <Link 
               to="/contact" 
