@@ -36,7 +36,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <MapPin className="h-5 w-5 mr-2" />
-                <span>Global Headquarters</span>
+                <span>Tijane City</span>
               </li>
             </ul>
           </div>
